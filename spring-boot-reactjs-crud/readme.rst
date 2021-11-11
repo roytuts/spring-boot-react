@@ -1,1 +1,1 @@
-You can read tutorial https://www.jeejava.com/spring-boot-reactjs-crud-example/
+You can read tutorial https://roytuts.com/spring-boot-reactjs-crud-example/
